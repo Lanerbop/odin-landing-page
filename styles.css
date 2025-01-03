@@ -1,1 +1,13 @@
-/* styles */
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #1F2937;
+    height: 600px;
+    width: 100%;
+}
