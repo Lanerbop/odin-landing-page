@@ -19,7 +19,7 @@ header {
     width: 100%;
 }
 
-.nav-bar {
+nav {
     padding: 24px;
     display: flex;
     justify-content: space-between;
