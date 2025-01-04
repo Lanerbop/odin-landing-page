@@ -10,9 +10,16 @@ body {
     font-family: Roboto, sans-serif;
 }
 
+.container {
+    justify-content: center;
+    width: 1200px;
+}
+
 /* HEADER */
 
 header {
+    display: flex;
+    justify-content: center;
     color: #F9FAF8;
     background-color: #1F2937;
     height: 600px;
@@ -40,3 +47,4 @@ nav {
     color: #F9FAF8;
     margin: 16px;
 }
+
