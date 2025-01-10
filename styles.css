@@ -69,6 +69,11 @@ button {
     font-weight: var(--fw-900);
 }
 
+section {
+    display: flex;
+    justify-content: center;
+}
+
 /* Header */
 
 header {
@@ -137,7 +142,6 @@ nav {
     text-align: center;
     display: flex;
     flex-direction: column;
-    display: flex;
     align-items: center;
 }
 
