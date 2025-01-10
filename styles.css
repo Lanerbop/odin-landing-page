@@ -1,3 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root {
+    
+    --clr-primary-Sky-Blue: #3882F6;
+    
+    --clr-neutral-Dark-Blue: #1F2937;
+    --clr-neutral-Off-White: #F9FAF8;
+    --clr-neutral-Light-Gray: #E5E7EB;
+    
+    --ff: "Roboto", sans-serif;
+
+    --fw-900: 900;
+
+    --fs-hero: 3rem;
+    --fs-header: 2.25rem;
+    --fs-header-logo: 1.5rem;
+    --fs-secondary: 1.125rem;
+    --fs-quote: 2.25rem;
+}
+
 *,
 *::before,
 *::after {
