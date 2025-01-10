@@ -189,7 +189,8 @@ h2 {
     width: 65%;
     font-size: var(--fs-quote);
     font-style: italic;
-    color: var(--clr-neutral-Dark-Blue)
+    color: var(--clr-neutral-Dark-Blue);
+    margin-bottom: 0.5rem;
 }
 
 .section-two__attribution {
@@ -197,4 +198,22 @@ h2 {
     margin-right: 250px;
     font-weight: var(--fw-900);
     color: var(--clr-neutral-Dark-Blue);
+}
+
+/* Third Section */
+
+.section-three__container {
+    background-color: var(--clr-primary-Sky-Blue);
+    border-radius: 5px;
+    padding: 3rem 3rem;
+    margin: 8rem 0;
+    color: var(--clr-neutral-Off-White);
+    text-align: left;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cta__button {
+    border: 2px solid var(--clr-neutral-Off-White)
 }
